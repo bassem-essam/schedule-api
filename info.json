@@ -1,0 +1,28 @@
+{
+  "importance": [
+    {
+      "filter": {
+        "dept": ["CS"],
+        "subject": "DSP",
+        "whom": [1, 2, 3, 4, 5, 6]
+      },
+      "value": "DSP Task Delivery",
+      "type": "Task-Delivery",
+      "start": "Sun 27/11",
+      "end": "End of week"
+    }
+  ],
+  "announcements": [
+    {
+      "filter": { "dept": "CS", "subject": "Neural Networks" },
+      "value": "Neural Networks Task 3 Delivery",
+      "end": "Fri 2/12 11:59 PM"
+    },
+    {
+      "filter": { "dept": "CS", "subject": "Graduation Project" },
+      "value": "First Seminar",
+      "start": "Sun 27/11",
+      "end": "Tue 29/11"
+    }
+  ]
+}
