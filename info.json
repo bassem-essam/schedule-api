@@ -14,7 +14,7 @@
   ],
   "announcements": [
     {
-      "filter": { "dept": "CS", "subject": "Neural Networks" },
+      "filter": { "dept": ["CS", "SC"], "subject": "Neural Networks" },
       "value": "Neural Networks Task 3 Delivery",
       "end": "Fri 2/12 11:59 PM"
     },
