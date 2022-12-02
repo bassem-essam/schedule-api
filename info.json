@@ -10,7 +10,18 @@
       "type": "Cancelled",
       "start": "Sat 3/12",
       "end": "Thu 8/12"
+    },
+    {
+      "filter": {
+        "dept": ["CS", "SC", "CSYS"],
+        "subject": "IOT",
+        "whom": [0]
+      },
+      "value": "Attendance is very important in IOT Lecture",
+      "type": "Attendance",
+      "start": "Sat 3/12"
     }
+
   ],
   "announcements": [
     {
